@@ -1,4 +1,4 @@
-# storyblock-tuto
+# nuxt-portfolio
 
 > Nuxt.js project
 

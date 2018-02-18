@@ -1,8 +1,8 @@
 {
-  "name": "storyblock-tuto",
+  "name": "nuxt-portfolio",
   "version": "1.0.0",
   "description": "Nuxt.js project",
-  "author": "Cedric Nicoloso <cnicoloso@octo.com>",
+  "author": "Cedric Nicoloso <cedric.nicoloso@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
